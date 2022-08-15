@@ -207,7 +207,7 @@ Card _weatherDayOfWeekDetail(WeatherDetail weatherDetail) {
       borderRadius: BorderRadius.circular(2.0),
     ),
     child: SizedBox(
-      width: 160,
+      width: 180,
       height: 120,
       child: Padding(
         padding: const EdgeInsets.all(4.0),

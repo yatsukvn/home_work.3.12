@@ -10,7 +10,7 @@ class Settings {
       );
   static TextStyle get weatherDayOfWeekDetail => const TextStyle(
         color: Colors.white,
-        fontSize: 32.0,
+        fontSize: 26.0,
         fontWeight: FontWeight.w200,
       );
 }
